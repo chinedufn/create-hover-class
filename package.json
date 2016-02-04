@@ -1,6 +1,6 @@
 {
   "name": "create-hover-class",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Turn a JSON object into a hover class to use with inline styled components",
   "main": "src/create-hover-class.js",
   "scripts": {
