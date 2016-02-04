@@ -1,0 +1,33 @@
+{
+  "name": "create-hover-class",
+  "version": "0.0.1",
+  "description": "Turn a JSON object into a hover class to use with inline styled components",
+  "main": "src/create-hover-class.js",
+  "scripts": {
+    "test": "standard && node test/create-hover-class.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinedufn/create-hover-class.git"
+  },
+  "keywords": [
+    "virtual-dom",
+    "vdom",
+    "hover",
+    "pseudo",
+    "css"
+  ],
+  "author": "Chinedu Francis Nwafili <frankie.nwafili@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chinedufn/create-hover-class/issues"
+  },
+  "homepage": "https://github.com/chinedufn/create-hover-class#readme",
+  "devDependencies": {
+    "standard": "^5.4.1",
+    "tape": "^4.4.0"
+  },
+  "dependencies": {
+    "cuid": "^1.3.8"
+  }
+}
