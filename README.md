@@ -59,6 +59,7 @@ A class name. `create-hover-class` will generate a [cuid](https://github.com/eri
 
 ## See Also
 
+- [insert-hover-class](https://github.com/chinedufn/insert-hover-class)
 - [create-keyframe](https://github.com/chinedufn/create-keyframe)
 - [insert-css](https://github.com/substack/insert-css)
 - [insert-styles](https://github.com/bendrucker/insert-styles)
