@@ -42,7 +42,7 @@ h('label', {
 
 ## API
 
-#### `createHC(hoverObject[, identifier])` -> `object`
+#### `createHC(hoverObject[, className])` -> `object`
 
 ##### hoverObject
 
@@ -51,11 +51,11 @@ Type: `object`
 
 Styles to apply on hover
 
-##### identifier
+##### className
 
 Type: `string`
 
-A class-name. `create-hover-class` will generate a [cuid](https://github.com/ericelliott/cuid) if no class-name is specified
+A class name. `create-hover-class` will generate a [cuid](https://github.com/ericelliott/cuid) if no class name is specified
 
 ## See Also
 
